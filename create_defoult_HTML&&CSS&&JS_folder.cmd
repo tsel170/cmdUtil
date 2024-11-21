@@ -1,6 +1,6 @@
 @echo off
 
-set /p dirName=Enter dir name in one word:
+set /p dirName=Enter folder name (in one word):
 
 mkdir %dirName%
 
