@@ -5,6 +5,8 @@ open_vs&&html - - open the folder using vs code and open the HTML file inside
 open_vs&&browser_for_react - - open the folder using vs code and opening the project in the browser
     if the browser wont open: edit the file and canege the "http://localhost:5173" to your local host
 
+installing server - - installing packet jason, express, nodemon, mongoose and dotenv
+
 HOW TO USE: simply put a copy of the file inside the folder that you want to use
 
 RECOMENDED: make a shortcut and put the shortcat in acses folder for an easy acsses to all of your projects!
