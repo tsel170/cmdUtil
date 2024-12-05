@@ -1,2 +1,3 @@
-npm init -y 
-npm i express mongoose nodemon dotenv 
+start npm init -y 
+start npm i express mongoose nodemon dotenv 
+exit
